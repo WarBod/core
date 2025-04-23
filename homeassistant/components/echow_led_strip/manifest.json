@@ -1,0 +1,17 @@
+{
+  "domain": "echow_led_strip",
+  "name": "Echow's Smart Led Strip",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/lvaroqui/smart-led-strip",
+  "issue_tracker": "https://github.com/lvaroqui/smart-led-strip/issues",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@lvaroqui"
+  ],
+  "iot_class": "local_polling"
+}
